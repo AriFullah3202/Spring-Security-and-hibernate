@@ -1,0 +1,14 @@
+@charset "UTF-8";
+ h1{
+   color: red;
+ }
+ body{
+ background: white;
+ 
+ }
+div{
+	text-align: center;
+}
+.error{
+	color: red;
+}
